@@ -1,5 +1,5 @@
 # Python
-pitone pitone pitone pitone 
+ 
 I pitoni sono dei grossi serpenti appartenenti alla famiglia dei boidi.
 Come i boa e l’anaconda non sono velenosi poiché non sono dotati di ghiandole velenifere. Questo però non li rende meno pericolosi. 
 I pitoni, infatti, sono dei predatori spietati che uccidono le loro prede per costrizione. Le avvolgono nelle lor spire e poi le stritolano fino a soffocarle. 
